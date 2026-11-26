@@ -1,1 +1,1 @@
-print("Hello, GitHub Mate! How are you doing today?")
+print("Hello, GitHub Mate! How are you doing today?, Second Day of learning GitHub")
